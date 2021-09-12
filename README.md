@@ -1,7 +1,6 @@
 # ML_work
 
-this repository will include all my ML learning training resources, codes, learning projects
-:)
+this repository will include all my ML learn proccess include courses, resources, training, and anything helpful :)
 
 ## Courses 
 
